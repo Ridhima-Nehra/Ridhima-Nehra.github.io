@@ -1,0 +1,58 @@
+baseURL = "https://ridhimanehra96.github.io/ai/"
+title = "Ridhima Nehra"
+theme = "PaperMod"
+defaultContentLanguage = "en"
+
+[languages.en]
+languageName = "English"
+
+[pagination]
+pagerSize = 5
+
+[params]
+defaultTheme = "dark"
+ShowReadingTime = true
+ShowShareButtons = true
+ShowPostNavLinks = true
+ShowBreadCrumbs = true
+ShowCodeCopyButtons = true
+
+[params.homeInfoParams]
+Title = "Hi, I'm Ridhima 👋"
+Content = "Welcome to my corner of the internet. I write about AI, tech, and things I find interesting."
+
+[[params.socialIcons]]
+name = "github"
+title = "GitHub"
+url = "https://github.com/ridhimanehra96"
+
+[params.assets]
+favicon = "/favicon.ico"
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 1
+
+[[menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "/posts/"
+weight = 2
+
+[[menu.main]]
+identifier = "archives"
+name = "Archives"
+url = "/archives/"
+weight = 3
+
+[markup]
+[markup.highlight]
+style = "dracula"
+lineNos = false
+codeFences = true
+guessSyntax = true
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]

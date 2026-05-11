@@ -5,29 +5,62 @@ defaultContentLanguage = "en"
 
 [languages.en]
 languageName = "English"
+weight = 1
 
 [pagination]
 pagerSize = 5
 
 [params]
+author = "Ridhima Nehra"
+description = "PhD Student in Mathematics at North Dakota State University"
 defaultTheme = "dark"
 ShowReadingTime = true
 ShowShareButtons = true
 ShowPostNavLinks = true
 ShowBreadCrumbs = true
 ShowCodeCopyButtons = true
+ShowRssButtonInSectionTermList = true
+ShowFullTextinRSS = true
+editPost.URL = "https://github.com/ridhimanehra96-ai/ridhimanehra96-ai/blob/main/content"
+editPost.Text = "Suggest Changes"
+editPost.appendFilePath = true
 
 [params.homeInfoParams]
-Title = "Hi, I'm Ridhima 👋"
-Content = "Welcome to my corner of the internet. I write about AI, tech, and things I find interesting."
+Title = "Hi, I'm Ridhima Nehra 👋"
+Content = """\
+PhD Student in **Mathematics** at [North Dakota State University](https://www.ndsu.edu/).\
+<br><br>\
+Research in pure and applied mathematics, mathematical modeling, and computational methods.\
+<br><br>\
+Welcome to my personal corner where I share my research, thoughts on math, and occasional musings.\
+"""
 
 [[params.socialIcons]]
 name = "github"
 title = "GitHub"
-url = "https://github.com/ridhimanehra96"
+url = "https://github.com/ridhimanehra96-ai"
+
+[[params.socialIcons]]
+name = "email"
+title = "Email"
+url = "mailto:ridhima.nehra@ndsu.edu"
+
+[[params.socialIcons]]
+name = "scholar"
+title = "Google Scholar"
+url = "https://scholar.google.com"
 
 [params.assets]
 favicon = "/favicon.ico"
+
+[params.fuseOpts]
+isCaseSensitive = false
+shouldSort = true
+location = 0
+distance = 1000
+threshold = 0.4
+minMatchCharLength = 0
+keys = ["title", "permalink", "summary", "content"]
 
 [[menu.main]]
 identifier = "about"
@@ -36,16 +69,34 @@ url = "/about/"
 weight = 1
 
 [[menu.main]]
+identifier = "research"
+name = "Research"
+url = "/research/"
+weight = 2
+
+[[menu.main]]
 identifier = "posts"
 name = "Posts"
 url = "/posts/"
-weight = 2
+weight = 3
+
+[[menu.main]]
+identifier = "cv"
+name = "CV"
+url = "/cv/"
+weight = 4
 
 [[menu.main]]
 identifier = "archives"
 name = "Archives"
 url = "/archives/"
-weight = 3
+weight = 5
+
+[[menu.main]]
+identifier = "search"
+name = "Search"
+url = "/search/"
+weight = 6
 
 [markup]
 [markup.highlight]
@@ -53,6 +104,10 @@ style = "dracula"
 lineNos = false
 codeFences = true
 guessSyntax = true
+
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = true
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]

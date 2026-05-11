@@ -1,11 +1,38 @@
 ---
 title: "About"
 date: 2024-01-01
-layout: "single"
+ShowToc: true
+TocOpen: false
+weight: 1
 ---
 
-Hi, I'm **Ridhima Nehra**.
+Hi! I'm **Ridhima Nehra**, a PhD student in the Department of Mathematics at **North Dakota State University (NDSU)**.
 
-This is my personal site where I share thoughts on AI, technology, and whatever else catches my interest.
+## Background
 
-Feel free to check out my [GitHub](https://github.com/ridhimanehra96) or browse the [posts](/posts/).
+I am pursuing my doctoral studies in Mathematics at NDSU, where my work focuses on advancing research in pure and applied mathematics. My academic journey has been driven by a deep curiosity for mathematical structures and their applications to real-world problems.
+
+## Education
+
+- **PhD in Mathematics** — North Dakota State University *(In Progress)*
+- **Previous Degree** — *Update with your details*
+
+## Research Interests
+
+- Mathematical Modeling
+- Computational Mathematics
+- Differential Equations
+- Applied Analysis
+- *Update with your specific areas*
+
+## Contact
+
+Feel free to reach out:
+
+- **Email:** ridhima.nehra@ndsu.edu
+- **GitHub:** [@ridhimanehra96-ai](https://github.com/ridhimanehra96-ai)
+- **Office:** *Update with office location*
+
+---
+
+*This page is a work in progress — I'll be adding more details soon!*

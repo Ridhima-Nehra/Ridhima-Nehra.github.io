@@ -1,1 +1,1 @@
-https://ridhimanehra96-ai.github.io/
+https://ridhima_nehra.github.io/

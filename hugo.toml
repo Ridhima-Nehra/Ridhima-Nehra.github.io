@@ -1,4 +1,4 @@
-baseURL = "https://ridhimanehra96.github.io/ai/"
+baseURL = "https://ridhima-nehra.github.io/"
 title = "Ridhima Nehra"
 theme = "PaperMod"
 defaultContentLanguage = "en"
@@ -21,7 +21,7 @@ ShowBreadCrumbs = true
 ShowCodeCopyButtons = true
 ShowRssButtonInSectionTermList = true
 ShowFullTextinRSS = true
-editPost.URL = "https://github.com/ridhimanehra96-ai/ridhimanehra96-ai/blob/main/content"
+editPost.URL = "https://github.com/Ridhima-Nehra/Ridhima-Nehra.github.io/blob/main/content" 
 editPost.Text = "Suggest Changes"
 editPost.appendFilePath = true
 
@@ -38,7 +38,8 @@ Welcome to my personal corner where I share my research, thoughts on math, and o
 [[params.socialIcons]]
 name = "github"
 title = "GitHub"
-url = "https://github.com/ridhimanehra96-ai"
+url = "https://github.com/Ridhima-Nehra"
+
 
 [[params.socialIcons]]
 name = "email"

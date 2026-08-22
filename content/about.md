@@ -30,7 +30,7 @@ I am pursuing my doctoral studies in Mathematics at NDSU, where my work focuses 
 Feel free to reach out:
 
 - **Email:** ridhima.nehra@ndsu.edu
-- **GitHub:** [@ridhimanehra96-ai](https://github.com/ridhimanehra96-ai)
+- **GitHub:** [@Ridhima-Nehra](https://github.com/Ridhima-Nehra)
 - **Office:** *Update with office location*
 
 ---

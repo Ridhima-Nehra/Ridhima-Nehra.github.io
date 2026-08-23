@@ -80,11 +80,11 @@ name = "Research"
 url = "/research/"
 weight = 2
 
-[[menu.main]]
-identifier = "posts"
-name = "Posts"
-url = "/posts/"
-weight = 3
+#[[menu.main]]
+# identifier = "posts"
+#name = "Posts"
+##url = "/posts/"
+# weight = 3
 
 [[menu.main]]
 identifier = "cv"

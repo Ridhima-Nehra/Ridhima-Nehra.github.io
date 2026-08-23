@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2024-01-01
-ShowToc: true
+ShowToc: false
 TocOpen: false
 weight: 1
 ---

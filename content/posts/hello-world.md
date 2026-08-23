@@ -1,7 +1,7 @@
 ---
 title: "Hello World"
 date: 2024-01-01
-draft: false
+draft: true
 tags: ["hello", "first-post", "personal"]
 categories: ["general"]
 summary: "The first post on my new site — a brief introduction."

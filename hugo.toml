@@ -51,7 +51,7 @@ url = "mailto:ridhima.nehra@ndsu.edu"
 [[params.socialIcons]]
 name = "LinkedIn"
 title = "LinkedIn"
-url = "www.linkedin.com/in/ridhima-nehra-44a320205"
+url = "www.linkedin.com/in/ridhima-nehra-44a320205/"
 
 [[params.socialIcons]]
 name = "scholar"
@@ -95,16 +95,16 @@ url = "/cv/"
 weight = 4
 
 [[menu.main]]
-identifier = "archives"
-name = "Archives"
-url = "/archives/"
+identifier = "Teaching"
+name = "Teaching"
+url = "/Teaching/"
 weight = 5
 
-[[menu.main]]
-identifier = "search"
-name = "Search"
-url = "/search/"
-weight = 6
+#[[menu.main]]
+#identifier = "search"
+#name = "Search"
+#url = "/search/"
+#weight = 6
 
 [markup]
 [markup.highlight]

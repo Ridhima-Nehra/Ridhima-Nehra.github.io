@@ -27,7 +27,7 @@ editPost.appendFilePath = true
 
 [params.homeInfoParams]
 Content = """\
-![Ridhima Nehra](/profile_pic.jpg)\
+<img src="/profile_pic.jpg" alt="Ridhima Nehra" width="120" height="120" style="display:block; margin:0 auto 15px; border-radius:50%; object-fit:cover;">\
 <br><br>\
 Title = "Hi, I'm Ridhima Nehra 👋"
 PhD Student in **Mathematics** at [North Dakota State University](https://www.ndsu.edu/).\
@@ -36,7 +36,6 @@ Research in Financial Mathematics, Mathematical Modeling, Computational Methods 
 <br><br>\
 Welcome to my personal corner where I share my research, thoughts on math, and photography.\
 """
-
 [[params.socialIcons]]
 name = "github"
 title = "GitHub"

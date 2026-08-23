@@ -47,9 +47,14 @@ title = "Email"
 url = "mailto:ridhima.nehra@ndsu.edu"
 
 [[params.socialIcons]]
+name = "LinkedIn"
+title = "LinkedIn"
+url = "www.linkedin.com/in/ridhima-nehra-44a320205"
+
+[[params.socialIcons]]
 name = "scholar"
 title = "Google Scholar"
-url = "https://scholar.google.com"
+url = "https://scholar.google.com/citations?user=-yOBdggAAAAJ&hl=en"
 
 [params.assets]
 favicon = "/favicon.ico"

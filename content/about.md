@@ -32,7 +32,7 @@ Feel free to reach out:
 
 - **Email:** ridhima.nehra@ndsu.edu
 - **GitHub:** [@Ridhima-Nehra](https://github.com/Ridhima-Nehra)
-- **Office:** *Update with office location*
+- **Office:** *Minard 408E8*
 
 ---
 

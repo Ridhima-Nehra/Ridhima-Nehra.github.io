@@ -6,7 +6,7 @@ TocOpen: false
 weight: 2
 ---
 
-## Research Overview
+
 My research is in Mathematical Finance, focused on pricing catastrophe (CAT) bonds under sudden, extreme market shocks.
 
 ## Current Projects

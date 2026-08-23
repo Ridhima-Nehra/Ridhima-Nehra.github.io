@@ -29,12 +29,14 @@ editPost.appendFilePath = true
 Content = """\
 <img src="/profile_pic.jpg" alt="Ridhima Nehra" width="200" height="220" style="display:block; margin:0 auto 15px; border-radius:50%; object-fit:cover;">\
 <br><br>\
-"Hello", I'm Ridhima Nehra. PhD Student in **Mathematics** at [North Dakota State University](https://www.ndsu.edu/).\
-<br><br>\
-Research in Financial Mathematics, Mathematical Modeling, Computational Methods and Applied Mathematics.\
+Hello. I'm Ridhima Nehra. PhD Student in **Mathematics** at [North Dakota State University](https://www.ndsu.edu/).\
 <br><br>\
 Welcome to my personal corner where I share my research, thoughts on math, and photography.\
+<br><br>\
+My research interests include Financial Mathematics, Mathematical Modeling, Computational Methods and Applied Mathematics.\
+<br><br>\
 """
+
 [[params.socialIcons]]
 name = "github"
 title = "GitHub"

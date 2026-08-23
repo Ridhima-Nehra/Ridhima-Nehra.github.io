@@ -7,20 +7,19 @@ weight: 2
 ---
 
 ## Research Overview
-My research is in Mathematical Finance, focused on pricing catastrophe (CAT) bonds under sudden, extreme market shocks. 
-
+My research is in Mathematical Finance, focused on pricing catastrophe (CAT) bonds under sudden, extreme market shocks.
 
 ## Current Projects
 
-### CAT Bond Price Jump-Diffusion Extension
-Extended the diffusion-only model by adding jump-diffusion dynamics to the spot exchange rate and the domestic and foreign interest rates, to price CAT bond. This gives pricing formulas for zero-coupon bonds and FX call options that account for market jumps, which standard diffusion-only models miss. Finally, the price for 
-
-
 ### Jump-Diffusion CAT Bond Pricing
-Deriving closed-form and semi-analytical pricing formulas for zero-coupon bonds and FX call options under jump-diffusion, and validating them against large-scale Monte Carlo simulation (500,000 paths, GPU-based). The jump-diffusion model shows roughly a tenfold reduction in pricing error compared to the baseline diffusion model.
+Extended the diffusion-only CAT bond model by adding jump-diffusion dynamics to the spot exchange rate and the domestic and foreign interest rates. This yields closed-form and semi-analytical pricing formulas for zero-coupon bonds and FX call options that account for market jumps, which standard diffusion-only models miss. Validated against large-scale Monte Carlo simulation and performed parameter sensitivity analysis across jump intensity, jump size, volatility, and mean-reversion speed.
 
 ### Multi-Currency Extension
-Extending the dissertation framework to a multi-currency setting, covering four currency pairs (USD/EUR, USD/INR, USD/BRL, USD/JPY) chosen to span stable and volatile exchange rate regimes. Jump parameters are calibrated separately for each pair.
+Extending the framework to a multi-currency setting, covering four currency pairs (USD/EUR, USD/INR, USD/BRL, USD/JPY) chosen to span stable and volatile exchange rate regimes. Jump parameters are calibrated separately for each pair and validated using Monte Carlo simulation across each currency pair. 
+
+### Multi-Label Emotion Classification with LLMs 
+Built and compared multiple approaches for multi-label emotion classification (28 emotion categories), including fine-tuned DistilBERT and BERT models and embedding-based pipelines (Logistic Regression, SVM, Random Forest, KNN). Applied hyperparameter tuning with Optuna and class-imbalance handling via oversampling and per-class threshold tuning.
+
 
 ## Publications
 - (Working Paper) Ridhima Nehra and I. SenGupta (2026), "The Catastrophe Bond Price under the Jump Diffusion Model: A Multi-Currency Comparison".
@@ -33,12 +32,13 @@ Extending the dissertation framework to a multi-currency setting, covering four 
 - AMS Spring Southeastern Sectional Meeting, Savannah, GA: Special Session on Mathematical Finance and Risk Management
 - 2nd International Conference on Innovative Studies of Contemporary Sciences”, Tokyo, Japan, August 17-19, 2020.
 - “Green and Sustainable Chemistry Conference GSCC”, Manav Rachna University, India, November 7-8, 2019.
-  ----
 - “Analysis, Applied Math & Geometry” Department Seminar, NDSU, March 24, 2026.
 - “Graduate Research Days”, NDSU, April 09, 2026.
 
-%# # Collaborators
-% - *Update with collaborator information*
+<!--## Collaborators --!>
+<!-- - *Update with collaborator information* --!>
+
+
 
 ---
 *Research page is continuously updated as projects progress.*

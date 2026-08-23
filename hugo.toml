@@ -26,10 +26,10 @@ editPost.Text = "Suggest Changes"
 editPost.appendFilePath = true
 
 [params.homeInfoParams]
-Title = "Hi, I'm Ridhima Nehra 👋"
 Content = """\
 ![Ridhima Nehra](/profile_pic.jpg)\
 <br><br>\
+Title = "Hi, I'm Ridhima Nehra 👋"
 PhD Student in **Mathematics** at [North Dakota State University](https://www.ndsu.edu/).\
 <br><br>\
 Research in Financial Mathematics, Mathematical Modeling, Computational Methods and Applied Mathematics.\

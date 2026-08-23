@@ -16,7 +16,7 @@ I am pursuing my doctoral studies in Mathematics at NDSU, where my work focuses 
 
 - **PhD in Mathematics**: North Dakota State University *(2022-present)*
 - **M.Sc in Mathematics**: Manav Rachna University *(2018-2020)*
-- **B.Sc Mathematics Hons.**: Delhi University *(2014-2017)*
+- **B.Sc Mathematics Hons.**: University of Delhi *(2014-2017)*
 
 ## Research Interests
 

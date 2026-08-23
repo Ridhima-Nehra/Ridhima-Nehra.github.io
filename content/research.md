@@ -1,6 +1,6 @@
 ---
 title: "Research"
-date: 2024-01-01
+date: 2026-01-01
 ShowToc: false
 TocOpen: false
 weight: 2
@@ -33,12 +33,12 @@ Built and compared multiple approaches for multi-label emotion classification (2
 - 2nd International Conference on Innovative Studies of Contemporary Sciences”, Tokyo, Japan, August 17-19, 2020.
 - “Green and Sustainable Chemistry Conference GSCC”, Manav Rachna University, India, November 7-8, 2019.
 - “Analysis, Applied Math & Geometry” Department Seminar, NDSU, March 24, 2026.
-- “Graduate Research Days”, NDSU, April 09, 2026.
+- “Graduate Research Days”, NDSU, April 09, 2026. 
 
 <!--## Collaborators --!>
 <!-- - *Update with collaborator information* --!>
 
 
+<br>
 
----
-*Research page is continuously updated as projects progress.*
+<p><em>Research page is continuously updated as projects progress.</em></p>

@@ -1,7 +1,7 @@
 ---
 title: "Getting Started with Mathematical Research"
 date: 2024-01-15
-draft: false
+draft: true
 tags: ["research", "math", "grad-school"]
 categories: ["academia"]
 summary: "Tips and thoughts on beginning mathematical research as a graduate student."

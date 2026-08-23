@@ -27,10 +27,9 @@ editPost.appendFilePath = true
 
 [params.homeInfoParams]
 Content = """\
-<img src="/profile_pic.jpg" alt="Ridhima Nehra" width="120" height="120" style="display:block; margin:0 auto 15px; border-radius:50%; object-fit:cover;">\
+<img src="/profile_pic.jpg" alt="Ridhima Nehra" width="200" height="220" style="display:block; margin:0 auto 15px; border-radius:50%; object-fit:cover;">\
 <br><br>\
-Title = "Hi, I'm Ridhima Nehra 👋"
-PhD Student in **Mathematics** at [North Dakota State University](https://www.ndsu.edu/).\
+"Hello", I'm Ridhima Nehra. PhD Student in **Mathematics** at [North Dakota State University](https://www.ndsu.edu/).\
 <br><br>\
 Research in Financial Mathematics, Mathematical Modeling, Computational Methods and Applied Mathematics.\
 <br><br>\

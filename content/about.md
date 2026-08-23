@@ -9,21 +9,22 @@ weight: 1
 Hi! I'm **Ridhima Nehra**, a PhD student in the Department of Mathematics at **North Dakota State University (NDSU)**.
 
 ## Background
+I am pursuing my doctoral studies in Mathematics at NDSU, where my work focuses on stochastic models for pricing Catastrophe Bonds under Jump-diffusion models. My academic journey has been driven by a deep curiosity for mathematical structures and their applications to real-world problems.
 
-I am pursuing my doctoral studies in Mathematics at NDSU, where my work focuses on advancing research in pure and applied mathematics. My academic journey has been driven by a deep curiosity for mathematical structures and their applications to real-world problems.
 
 ## Education
 
-- **PhD in Mathematics** — North Dakota State University *(In Progress)*
-- **Previous Degree** — *Update with your details*
+- **PhD in Mathematics**: North Dakota State University *(2022-present)*
+- **M.Sc in Mathematics**: Manav Rachna University *(2018-2020)*
+- **B.Sc Mathematics Hons.**: Delhi University *(2014-2017)*
 
 ## Research Interests
 
-- Mathematical Modeling
+- Financial Mathematics
+- Stochastic Processes
 - Computational Mathematics
+- Mathematical Modeling
 - Differential Equations
-- Applied Analysis
-- *Update with your specific areas*
 
 ## Contact
 

@@ -49,3 +49,7 @@ body:not(.home) .page {
 .home-info .menu a {
     color: rgb(33 33 40) !important;
 }
+
+.theme-toggle svg {
+    stroke: rgb(33, 33, 40) !important;
+}

@@ -9,7 +9,7 @@ weight: 3
 ## Teaching Experience
 -------------------
 
- My teaching experience at NDSU has focused on undergraduate calculus and foundational mathematics, delivered through the _*flipped classroom model*_ in both Calculus and Linear Algebra. As a Teaching Assistant, I supported students through instruction, problem-solving, assessment, and individualized help, and I tutored at the Academic Collegiate Enhancement (ACE) program across a range of courses. Now as primary instructor for Linear Algebra (MATH 129), I continue using the flipped classroom approach to give students more time for hands-on problem-solving in class. 
+ My teaching experience at NDSU has focused on undergraduate calculus and foundational mathematics, delivered through the <span style="color: #ffffff;">_*flipped classroom model*_</span> in both Calculus and Linear Algebra. As a Teaching Assistant, I supported students through instruction, problem-solving, assessment, and individualized help, and I tutored at the Academic Collegiate Enhancement (ACE) program across a range of courses. Now as primary instructor for Linear Algebra (MATH 129), I continue using the flipped classroom approach to give students more time for hands-on problem-solving in class. 
 
 
 ### Primary Instructor, Department of Mathematics, NDSU

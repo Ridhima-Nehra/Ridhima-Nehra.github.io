@@ -46,15 +46,19 @@ body.home .first-entry {
     padding: 35px;
 }
 
-body.home .entry-content.md-content p,
-body.home .entry-content.md-content li,
-body.home .entry-content.md-content h1,
-body.home .entry-content.md-content h2,
-body.home .entry-content.md-content h3 {
+.home .entry-content.md-content p,
+.home .entry-content.md-content li,
+.home .entry-content.md-content h1,
+.home .entry-content.md-content h2,
+.home .entry-content.md-content h3 {
     background: rgba(0, 0, 0, 0.6);
     color: #fff;
     padding: 2px 6px;
     line-height: 1.6;
     box-decoration-break: clone;
     -webkit-box-decoration-break: clone;
+}
+
+.menu a {
+    color: rgb(33 33 40) !important;
 }

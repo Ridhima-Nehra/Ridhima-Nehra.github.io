@@ -14,26 +14,38 @@ body {
 
 
 /* =========================
-   Homepage / Profile page
+   Homepage grey panel
    ========================= */
 
-body.home .main,
-body.home .profile,
-body.home .profile_inner,
-body.home .home-info {
-    background: transparent !important;
-    background-color: transparent !important;
+body.home .profile {
+    background: rgba(35, 35, 35, 0.82) !important;
+    background-size: 100% auto;
+    border-radius: 12px;
+    padding: 30px;
 }
 
-
-/* Remove the large homepage box */
-body.home .first-entry {
+body.home .profile_inner {
     background: transparent !important;
 }
 
 
-/* Homepage content */
-body.home .main {
-    padding-top: 15px;
+/* Keep homepage content readable */
+
+body.home .profile_inner h1,
+body.home .profile_inner h2,
+body.home .profile_inner h3,
+body.home .profile_inner p {
+    position: relative;
+    z-index: 1;
 }
 
+
+/* =========================
+   Other pages
+   ========================= */
+
+.main {
+    background: rgba(20, 20, 20, 0.88);
+    border-radius: 12px;
+    padding: 15px;
+}

@@ -19,7 +19,7 @@ body {
 
 body.home .profile {
     background: rgba(35, 35, 35, 0.82) !important;
-    background-size: 70% auto;
+    background-size: contain;
     border-radius: 12px;
     padding: 15px;
 }

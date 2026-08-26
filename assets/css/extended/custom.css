@@ -1,4 +1,8 @@
-/* Background for the entire website */
+
+/* =========================
+   Background image
+   ========================= */
+
 body {
     background-image: url("/IMG_8513.JPG") !important;
     background-size: 100% auto;
@@ -9,28 +13,27 @@ body {
 }
 
 
-/* Make the background visible on the homepage */
-.home-info,
-.first-entry,
-.home-info .entry-content {
+/* =========================
+   Homepage / Profile page
+   ========================= */
+
+body.home .main,
+body.home .profile,
+body.home .profile_inner,
+body.home .home-info {
+    background: transparent !important;
+    background-color: transparent !important;
+}
+
+
+/* Remove the large homepage box */
+body.home .first-entry {
     background: transparent !important;
 }
 
-/* Homepage main area */
-body.home .main,
-.profile,
-.home-info,
-.first-entry {
-    background: rgba(20, 20, 20, 0.88);
-    border-radius: 12px;
-    padding: 15px;
-}
 
-/* Regular pages/posts */
-.main {
-    background: rgba(20, 20, 20, 0.88);
-    border-radius: 12px;
-    padding: 15px;
+/* Homepage content */
+body.home .main {
+    padding-top: 15px;
 }
-
 

@@ -30,15 +30,16 @@ body {
     min-height: 100vh;
 }
 
-body.home .first-entry {
+
+body:not(.home) .post-single,
+body:not(.home) .page {
     background: rgba(46, 46, 51, 0.88) !important;
     border-radius: 12px;
     padding: 25px;
 }
 
-body:not(.home) .post-single,
-body:not(.home) .page {
-    background: rgba(46, 46, 51, 0.88) !important;
+body.home .first-entry.home-info {
+    background: rgba(20, 46, 51, 0.88) !important;
     border-radius: 12px;
     padding: 25px;
 }

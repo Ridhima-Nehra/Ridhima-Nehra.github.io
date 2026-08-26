@@ -1,9 +1,15 @@
 
+
+:root {
+    --main-width: 900px;
+}
+
 html {
     min-height: 100vh;
 }
 
-body {
+
+html {
     background-image: url("/IMG_8513.JPG") !important;
     background-size: cover;
     background-position: center top;
@@ -11,13 +17,20 @@ body {
     min-height: 100vh;
 }
 
+html.bg-fixed {
+    background-attachment: fixed;
+}
 
-body:not(.home) {
+html.bg-scroll {
     background-attachment: scroll;
 }
 
+body {
+    background: none !important;
+    min-height: 100vh;
+}
+
 body.home .first-entry {
-    background-attachment: fixed;
     background: rgba(46, 46, 51, 0.88) !important;
     border-radius: 12px;
     padding: 25px;

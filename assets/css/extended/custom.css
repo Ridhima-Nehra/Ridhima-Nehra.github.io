@@ -1,11 +1,13 @@
 /* Background for the entire website */
 body {
     background-image: url("/IMG_8513.JPG") !important;
-    background-size: cover;
-    background-position: center;
+    background-size: 100% auto;
+    background-position: center top;
     background-attachment: fixed;
     background-repeat: no-repeat;
+    background-color: #000;
 }
+
 
 /* Make the background visible on the homepage */
 .home-info,
@@ -19,15 +21,16 @@ body.home .main,
 .profile,
 .home-info,
 .first-entry {
-    background: transparent !important;
     background: rgba(20, 20, 20, 0.88);
     border-radius: 12px;
-    padding: 25px;
+    padding: 15px;
 }
 
 /* Regular pages/posts */
 .main {
     background: rgba(20, 20, 20, 0.88);
     border-radius: 12px;
-    padding: 25px;
+    padding: 15px;
 }
+
+

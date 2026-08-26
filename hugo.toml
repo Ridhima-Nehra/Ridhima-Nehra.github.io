@@ -8,7 +8,7 @@ languageName = "English"
 weight = 1
 
 [pagination]
-pagerSize = 5
+pagerSize = 7
 
 [params]
 author = "Ridhima Nehra"

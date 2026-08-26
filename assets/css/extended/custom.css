@@ -1,0 +1,25 @@
+/* Custom background */
+
+body {
+    background-image: url("/static/background.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.55);
+    z-index: -1;
+    pointer-events: none;
+}
+
+.main {
+    position: relative;
+    background: rgba(20, 20, 20, 0.88);
+    border-radius: 12px;
+    padding: 25px;
+}

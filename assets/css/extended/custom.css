@@ -1,8 +1,8 @@
 
 
-/* ============================
-   SITE BACKGROUND
-   ============================ */
+/* =========================================
+   BACKGROUND IMAGE
+   ========================================= */
 
 body {
     background-image: url("/IMG_8513.JPG") !important;
@@ -14,36 +14,29 @@ body {
 }
 
 
-/* ============================
-   HOMEPAGE CONTENT BOX
-   ============================ */
+/* =========================================
+   HOMEPAGE
+   ========================================= */
 
-/* PaperMod homeInfo container */
+/* Grey readable area */
 body.home .first-entry {
     background: rgba(35, 35, 35, 0.82) !important;
     border-radius: 12px;
-    padding: 25px;
+    padding: 15px;
 }
 
-
-/* Home info itself */
+/* Keep the inside transparent */
 body.home .home-info {
     background: transparent !important;
 }
 
 
-/* Keep the text readable */
-body.home .entry-content {
-    background: transparent !important;
-}
-
-
-/* ============================
+/* =========================================
    OTHER PAGES
-   ============================ */
+   ========================================= */
 
 body:not(.home) .main {
     background: rgba(20, 20, 20, 0.88);
     border-radius: 12px;
-    padding: 15px;
+    padding: 25px;
 }

@@ -11,15 +11,13 @@ body {
     min-height: 100vh;
 }
 
-body.home {
-    background-attachment: fixed;
-}
 
 body:not(.home) {
     background-attachment: scroll;
 }
 
 body.home .first-entry {
+    background-attachment: fixed;
     background: rgba(46, 46, 51, 0.88) !important;
     border-radius: 12px;
     padding: 25px;

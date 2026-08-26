@@ -46,4 +46,16 @@ body.home .first-entry {
     padding: 35px;
 }
 
+.home-info .entry-content.md-content p,
+.home-info .entry-content.md-content li,
+.home-info .entry-content.md-content h1,
+.home-info .entry-content.md-content h2,
+.home-info .entry-content.md-content h3 {
+    background: rgba(0, 0, 0, 0.6);
+    color: #fff;
+    padding: 2px 6px;
+    line-height: 1.6;
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
+}
 

@@ -1,25 +1,33 @@
+
 html {
-    background-image: url("/IMG_8513.JPG") !important;
-    background-size: cover;
-    background-position: center top;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
     min-height: 100vh;
 }
 
 body {
-    background: none !important;
+    background-image: url("/IMG_8513.jpg") !important;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
     min-height: 100vh;
 }
 
-/* Homepage readable text box */
+body.home {
+    background-attachment: fixed;
+}
+
+body:not(.home) {
+    background-attachment: scroll;
+}
+
 body.home .first-entry {
     background: rgba(46, 46, 51, 0.88) !important;
     border-radius: 12px;
     padding: 25px;
 }
 
-/* Keep the inside transparent */
-body.home .home-info {
-    background: transparent !important;
+body:not(.home) .post-single,
+body:not(.home) .page {
+    background: rgba(46, 46, 51, 0.88) !important;
+    border-radius: 12px;
+    padding: 25px;
 }

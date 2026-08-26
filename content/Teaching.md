@@ -1,6 +1,6 @@
 ---
 title: "Teaching"
-date: 2026-26-08
+date: 2026-08-26
 ShowToc: false
 TocOpen: false
 weight: 3

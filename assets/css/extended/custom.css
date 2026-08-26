@@ -19,9 +19,9 @@ body {
 
 body.home .profile {
     background: rgba(35, 35, 35, 0.82) !important;
-    background-size: 100% auto;
+    background-size: 70% auto;
     border-radius: 12px;
-    padding: 30px;
+    padding: 15px;
 }
 
 body.home .profile_inner {

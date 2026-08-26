@@ -38,9 +38,12 @@ body:not(.home) .page {
     padding: 25px;
 }
 
-.first-entry.home-info {
-    background: rgba(20, 46, 51, 0.88) !important;
+/* Homepage readable text box */
+
+body.home .first-entry {
+    background: rgba(20, 46, 51, 0.78) !important;
     border-radius: 12px;
-    padding: 25px;
+    padding: 35px;
 }
+
 

@@ -1,28 +1,9 @@
-
-
-/* =========================================
-   BACKGROUND IMAGE
-   ========================================= */
-
 body {
     background-image: url("/IMG_8513.JPG") !important;
-    background-size: 70% auto !important;
-    background-position: center top !important;
-    background-repeat: no-repeat !important;
-    background-attachment: scroll !important;
-    background-color: #000;
-}
-
-
-/* =========================================
-   HOMEPAGE
-   ========================================= */
-
-/* Grey readable area */
-body.home .first-entry {
-    background: rgba(35, 35, 35, 0.82) !important;
-    border-radius: 12px;
-    padding: 15px;
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
 }
 
 /* Keep the inside transparent */
@@ -31,12 +12,29 @@ body.home .home-info {
 }
 
 
+
+
+
+/* =========================================
+   HOMEPAGE
+   ========================================= */
+
+/* Grey readable area */  body.home .first-entry {
+  /*   background: rgba(35, 35, 35, 0.82) !important;
+    border-radius: 12px;
+    padding: 15px; }  */
+
+/* Keep the inside transparent */
+ /*  body.home .home-info {
+    background: transparent !important;
+}  */
+
+
 /* =========================================
    OTHER PAGES
    ========================================= */
 
-body:not(.home) .main {
-    background: rgba(20, 20, 20, 0.88);
+/*  body:not(.home) .main {
+ /*    background: rgba(20, 20, 20, 0.88);
     border-radius: 12px;
-    padding: 25px;
-}
+    padding: 25px; }  */

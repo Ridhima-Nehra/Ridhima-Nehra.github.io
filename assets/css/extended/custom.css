@@ -46,10 +46,6 @@ body:not(.home) .page {
 }
 
 
-.home-info .menu a {
-    color: rgb(33 33 40) !important;
-}
-
 .theme-toggle svg {
-    stroke: rgb(60, 43, 40) !important;
+    stroke: rgb(46, 66, 51) !important;
 }

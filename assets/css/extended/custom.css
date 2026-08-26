@@ -1,24 +1,26 @@
-/* Custom background */
-
+/* Background for the entire website */
 body {
-    background-image: url("/IMG_7144.jpg");
+    background-image: url("/IMG_8513.jpg") !important;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
     background-repeat: no-repeat;
 }
 
-body::before {
-    content: "";
-    position: fixed;
-    inset: 0;
-    background: rgba(0, 0, 0, 0.55);
-    z-index: -1;
-    pointer-events: none;
+/* Make the background visible on the homepage */
+.home-info,
+.first-entry,
+.home-info .entry-content {
+    background: transparent !important;
 }
 
+/* Homepage main area */
+body.home .main {
+    background: transparent !important;
+}
+
+/* Regular pages/posts */
 .main {
-    position: relative;
     background: rgba(20, 20, 20, 0.88);
     border-radius: 12px;
     padding: 25px;

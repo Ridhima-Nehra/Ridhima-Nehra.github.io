@@ -1,50 +1,48 @@
 
-/* =========================
-   Background image
-   ========================= */
+
+/* ============================
+   SITE BACKGROUND
+   ============================ */
 
 body {
     background-image: url("/IMG_8513.JPG") !important;
-    background-size: 100% auto;
-    background-position: center top;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
+    background-size: 70% auto !important;
+    background-position: center top !important;
+    background-repeat: no-repeat !important;
+    background-attachment: scroll !important;
     background-color: #000;
 }
 
 
-/* =========================
-   Homepage grey panel
-   ========================= */
+/* ============================
+   HOMEPAGE CONTENT BOX
+   ============================ */
 
-body.home .profile {
+/* PaperMod homeInfo container */
+body.home .first-entry {
     background: rgba(35, 35, 35, 0.82) !important;
-    background-size: contain;
     border-radius: 12px;
-    padding: 15px;
+    padding: 25px;
 }
 
-body.home .profile_inner {
+
+/* Home info itself */
+body.home .home-info {
     background: transparent !important;
 }
 
 
-/* Keep homepage content readable */
-
-body.home .profile_inner h1,
-body.home .profile_inner h2,
-body.home .profile_inner h3,
-body.home .profile_inner p {
-    position: relative;
-    z-index: 1;
+/* Keep the text readable */
+body.home .entry-content {
+    background: transparent !important;
 }
 
 
-/* =========================
-   Other pages
-   ========================= */
+/* ============================
+   OTHER PAGES
+   ============================ */
 
-.main {
+body:not(.home) .main {
     background: rgba(20, 20, 20, 0.88);
     border-radius: 12px;
     padding: 15px;

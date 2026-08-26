@@ -38,8 +38,9 @@ body:not(.home) .page {
     padding: 25px;
 }
 
-body.home .first-entry.home-info {
+.first-entry.home-info {
     background: rgba(20, 46, 51, 0.88) !important;
     border-radius: 12px;
     padding: 25px;
 }
+

@@ -1,7 +1,7 @@
 /* Custom background */
 
 body {
-    background-image: url("/static/background.jpg");
+    background-image: url("static/IMG_7144.jpg"); 
     background-size: cover;
     background-position: center;
     background-attachment: fixed;

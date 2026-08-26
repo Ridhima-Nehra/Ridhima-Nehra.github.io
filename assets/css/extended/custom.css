@@ -1,6 +1,6 @@
 /* Background for the entire website */
 body {
-    background-image: url("/IMG_8513.JPG") !important;
+    background-image: url("/background.JPG") !important;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -15,7 +15,11 @@ body {
 }
 
 /* Homepage main area */
-body.home .main {
+
+body.home .main,
+.profile,
+.home-info,
+.first-entry {
     background: transparent !important;
 }
 

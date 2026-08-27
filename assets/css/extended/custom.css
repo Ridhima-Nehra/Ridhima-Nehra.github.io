@@ -47,5 +47,5 @@ body:not(.home) .page {
 
 
 .theme-toggle svg {
-    stroke: rgba(6, 6, 5, 0.85) !important;
+    stroke: rgb(6, 6, 5) !important;
 }

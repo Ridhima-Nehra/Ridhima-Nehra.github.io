@@ -49,3 +49,55 @@ body:not(.home) .page {
 .theme-toggle svg {
     stroke: rgb(6, 6, 5) !important;
 }
+
+
+/* ===== 29 sep ===== */
+/* ===== Light Theme Colors ===== */
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+    color: #17324D;
+}
+
+/* Links */
+a {
+    color: #245A8D;
+}
+
+a:hover {
+    color: #163F66;
+}
+
+/* Navigation menu */
+#menu a {
+    color: #17324D;
+}
+
+#menu a:hover {
+    color: #245A8D;
+}
+
+/* Site title */
+.logo a {
+    color: #17324D;
+}
+
+/* Social icons */
+.social-icons a {
+    color: #17324D;
+}
+
+.social-icons a:hover {
+    color: #245A8D;
+}
+
+/* Search + theme toggle icons */
+button,
+#theme-toggle {
+    color: #17324D;
+}
+
+/* SVG icons */
+svg {
+    color: #17324D;
+}

@@ -78,14 +78,6 @@ a:hover {
     color: #17324D;
 }
 
-/* Social icons */
-.social-icons a {
-    color: #FFFFF0; /* Changed from #17324D to Ivory */
-}
-
-.social-icons a:hover {
-    color: #245A8D;
-}
 
 
 /* Search + theme toggle icons */
@@ -94,7 +86,26 @@ button,
     color: #17324D;
 }
 
-/* SVG icons */
+
+/* Social icons */
+.social-icons a {
+    color: #FFFFF0;
+}
+
+.social-icons a:hover {
+    color: #245A8D;
+}
+
+.social-icons svg {
+    color: #FFFFF0;
+    fill: currentColor;
+}
+
+.social-icons a:hover svg {
+    color: #245A8D;
+}
+
+/* Other SVG icons */
 svg {
     color: #17324D;
 }

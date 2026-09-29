@@ -54,10 +54,6 @@ body:not(.home) .page {
 /* ===== 29 sep ===== */
 /* ===== Light Theme Colors ===== */
 
-/* Headings */
-h1, h2, h3, h4, h5, h6 {
-    color: #17324D;
-}
 
 /* Links */
 a {

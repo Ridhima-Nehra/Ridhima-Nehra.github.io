@@ -6,5 +6,5 @@
 </iframe>
 
 <p>
-  <a href="/Ridhima_CV_aug26 (1).pdf" download>Download CV (PDF)</a>
+  <a href="/ridhi_cv_academic_new_29_sep.pdf" download>Download CV (PDF)</a>
 </p>

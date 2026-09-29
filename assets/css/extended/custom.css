@@ -128,3 +128,21 @@ svg {
     color: #17324D;
 }
 
+/* ===== Force social icons to ivory ===== */
+
+.social-icons {
+    color: #FFFFF0 !important;
+}
+
+.social-icons a {
+    color: #FFFFF0 !important;
+}
+
+.social-icons svg {
+    color: #FFFFF0 !important;
+    fill: #FFFFF0 !important;
+}
+
+.social-icons svg path {
+    fill: #FFFFF0 !important;
+}

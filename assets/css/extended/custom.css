@@ -110,19 +110,19 @@ svg {
     color: #17324D;
 }
 
-
-/* Social icons on ALL pages */
-.social-icons,
-.social-icons a,
-.social-icons svg,
-.social-icons svg path {
+/* Social icons — including X/Twitter SVG */
+.social-icons svg {
     color: #FFFFF0 !important;
-    fill: currentColor !important;
+    fill: #FFFFF0 !important;
 }
 
-.social-icons a:hover,
+.social-icons svg path {
+    fill: #FFFFF0 !important;
+}
+
+/* Hover */
 .social-icons a:hover svg,
 .social-icons a:hover svg path {
     color: #245A8D !important;
-    fill: currentColor !important;
+    fill: #245A8D !important;
 }

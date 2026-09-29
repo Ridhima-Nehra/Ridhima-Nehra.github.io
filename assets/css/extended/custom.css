@@ -146,3 +146,44 @@ svg {
 .social-icons svg path {
     fill: #FFFFF0 !important;
 }
+
+
+/* Footer social icons: ivory */
+footer a,
+footer .social-icons a,
+.footer a,
+.footer .social-icons a {
+    color: #FFFFF0 !important;
+}
+
+footer svg,
+footer .social-icons svg,
+.footer svg,
+.footer .social-icons svg {
+    color: #FFFFF0 !important;
+    stroke: #FFFFF0 !important;
+}
+
+footer svg path,
+footer svg circle,
+footer svg rect,
+footer svg line,
+footer svg polyline,
+.footer svg path,
+.footer svg circle,
+.footer svg rect,
+.footer svg line,
+.footer svg polyline {
+    stroke: #FFFFF0 !important;
+}
+
+/* Hover */
+footer a:hover,
+footer a:hover svg,
+footer a:hover svg path,
+.footer a:hover,
+.footer a:hover svg,
+.footer a:hover svg path {
+    color: #245A8D !important;
+    stroke: #245A8D !important;
+}

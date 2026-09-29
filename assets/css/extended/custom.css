@@ -50,10 +50,7 @@ body:not(.home) .page {
     stroke: rgb(6, 6, 5) !important;
 }
 
-
-/* ===== 29 sep ===== */
-/* ===== Light Theme Colors ===== */
-
+/* ===== 29 sep — Light Theme Colors ===== */
 
 /* Links */
 a {
@@ -78,51 +75,56 @@ a:hover {
     color: #17324D;
 }
 
-
-
-/* Search + theme toggle icons */
+/* Search + theme toggle */
 button,
 #theme-toggle {
     color: #17324D;
 }
 
-
-/* Social icons */
-.social-icons a {
-    color: #FFFFF0;
+/* Theme toggle icon */
+.theme-toggle svg {
+    stroke: #17324D !important;
 }
 
-.social-icons a:hover {
-    color: #245A8D;
+/* =========================================
+   SOCIAL ICONS
+   ========================================= */
+
+/* Icon links */
+.social-icons a,
+.post-footer .social-icons a {
+    color: #FFFFF0 !important;
 }
 
-.social-icons svg {
-    color: #FFFFF0;
-    fill: currentColor;
-}
-
-.social-icons a:hover svg {
-    color: #245A8D;
-}
-
-/* Other SVG icons */
-svg {
-    color: #17324D;
-}
-
-/* Social icons — including X/Twitter SVG */
-.social-icons svg {
+/* Actual SVG */
+.social-icons svg,
+.post-footer .social-icons svg {
     color: #FFFFF0 !important;
     fill: #FFFFF0 !important;
 }
 
-.social-icons svg path {
+/* SVG path */
+.social-icons svg path,
+.post-footer .social-icons svg path {
     fill: #FFFFF0 !important;
 }
 
 /* Hover */
+.social-icons a:hover,
+.post-footer .social-icons a:hover {
+    color: #245A8D !important;
+}
+
 .social-icons a:hover svg,
-.social-icons a:hover svg path {
+.social-icons a:hover svg path,
+.post-footer .social-icons a:hover svg,
+.post-footer .social-icons a:hover svg path {
     color: #245A8D !important;
     fill: #245A8D !important;
 }
+
+/* Other icons */
+svg {
+    color: #17324D;
+}
+

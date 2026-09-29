@@ -80,12 +80,13 @@ a:hover {
 
 /* Social icons */
 .social-icons a {
-    color: #17324D;
+    color: #FFFFF0; /* Changed from #17324D to Ivory */
 }
 
 .social-icons a:hover {
     color: #245A8D;
 }
+
 
 /* Search + theme toggle icons */
 button,

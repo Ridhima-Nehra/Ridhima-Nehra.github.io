@@ -22,14 +22,14 @@ Built and compared multiple approaches for multi-label emotion classification (2
 
 
 ## Publications
-- (Working Paper) Ridhima Nehra and I. SenGupta (2026), "The Catastrophe Bond Price under the Jump Diffusion Model: A Multi-Currency Comparison".
-- (Working Paper) Ridhima Nehra and L. Liu (2026), "Emotion Detection in Text Using Large Language Models for Enhanced Mental Health Support". 
+- Ridhima Nehra and I. SenGupta (2026), "The Catastrophe Bond Price under the Jump Diffusion Model: A Multi-Currency Comparison", Stats, 2026.
 - (Submitted) Ridhima Nehra and I. SenGupta (2026), “The valuation of catastrophe bonds under domestic and foreign interest rates with jumps”, Annals of Finance, 2026.
+- (Working Paper) Ridhima Nehra and L. Liu (2026), "Emotion Detection in Text Using Large Language Models for Enhanced Mental Health Support". 
 - Ridhima Nehra, Sushma Dave, Pratik Jagtap. “Mathematical Modeling and Surface Response Curves for Green Synthesized Nanomaterials and Their Application in Dye Degradation.” Book Chapter in Photocatalytic Degradation of Dyes, Elsevier, 2021.
 - Ridhima Nehra, Rojin Joseph, and Aparna Vyas. “Comparison of Image Denoising Using Wavelet Transform and Wavelet Packet Transform.” International Conference Proceedings, Tokyo Summit II, 2020.
 
 ## Presentations
-- AMS Spring Southeastern Sectional Meeting, Savannah, GA: Special Session on Mathematical Finance and Risk Management
+- AMS Spring Southeastern Sectional Meeting, Savannah, GA: Special Session on Mathematical Finance and Risk Management, 28-29 March, 2026.
 - 2nd International Conference on Innovative Studies of Contemporary Sciences”, Tokyo, Japan, August 17-19, 2020.
 - “Green and Sustainable Chemistry Conference GSCC”, Manav Rachna University, India, November 7-8, 2019.
 - “Analysis, Applied Math & Geometry” Department Seminar, NDSU, March 24, 2026.

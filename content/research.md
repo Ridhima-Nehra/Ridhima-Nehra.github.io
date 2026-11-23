@@ -36,8 +36,8 @@ Built and compared multiple approaches for multi-label emotion classification (2
 - "American Mathematical Society (AMS) 2026 Fall Western Sectional Meeting", Special Session on Stochastic Analysis and Applications, Arizona State University, Tempe, AZ, November 7-8, 2026.
 - "AMS Spring Southeastern Sectional Meeting", Special Session on Mathematical Finance and Risk Management, Georgia Southern University-Armstrong Campus, Savannah, GA, March 28-29, 2026.
 - "2nd International Conference on Innovative Studies of Contemporary Sciences”, Tokyo, Japan, August 17-19, 2020.
-- “Green and Sustainable Chemistry Conference GSCC”, Manav Rachna University, India, November 7-8, 2019.
-  \-\-\-
+- “Green and Sustainable Chemistry Conference GSCC”, Manav Rachna University, India, November 7-8, 2019. 
+<p>&#45;&#45;&#45;</p>
 - "Graduate Colloquium", Department of Mathematics, NDSU, October 29, 2026.
 - “Analysis, Applied Math & Geometry” Department Seminar, NDSU, March 24, 2026.
 - “Graduate Research Days”, NDSU, April 09, 2026. 

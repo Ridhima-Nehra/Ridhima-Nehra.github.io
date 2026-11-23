@@ -7,7 +7,7 @@ weight: 2
 ---
 
 
-My research is in Mathematical Finance, focused on pricing catastrophe (CAT) bonds under sudden, extreme market shocks.
+My research is in Mathematical Finance, with a focus on pricing catastrophe (CAT) bonds under sudden, extreme market shocks using jump-diffusion models
 
 ## Current Projects
 
@@ -32,15 +32,19 @@ Built and compared multiple approaches for multi-label emotion classification (2
 - Ridhima Nehra, Rojin Joseph, and Aparna Vyas. “Comparison of Image Denoising Using Wavelet Transform and Wavelet Packet Transform.” International Conference Proceedings, Tokyo Summit II, 2020. 
 
 ## Presentations
-- (Upcoming) ``Joint Mathematics Meetings 2027'', Chicago, January 12-15, 2027.  
+- (Upcoming) "Joint Mathematics Meetings 2027'', Chicago, January 12-15, 2027.  
 - "American Mathematical Society (AMS) 2026 Fall Western Sectional Meeting", Special Session on Stochastic Analysis and Applications, Arizona State University, Tempe, AZ, November 7-8, 2026.
 - "AMS Spring Southeastern Sectional Meeting", Special Session on Mathematical Finance and Risk Management, Georgia Southern University-Armstrong Campus, Savannah, GA, March 28-29, 2026.
 - "2nd International Conference on Innovative Studies of Contemporary Sciences”, Tokyo, Japan, August 17-19, 2020.
 - “Green and Sustainable Chemistry Conference GSCC”, Manav Rachna University, India, November 7-8, 2019.
-
+---
 - "Graduate Colloqium", Department of Mathematics, NDSU, October 29, 2026.
 - “Analysis, Applied Math & Geometry” Department Seminar, NDSU, March 24, 2026.
 - “Graduate Research Days”, NDSU, April 09, 2026. 
+
+## Research Interests
+
+Financial Mathematics, Jump-Diffusion Models, Stochastic Processes, Monte Carlo Simulation, Differential Equations, Time Series Forecasting, Machine Learning, Large Language Model Fine-Tuning, Wavelets, Mathematical Modeling.
 
 <!--## Collaborators --!>
 <!-- - *Update with collaborator information* --!>

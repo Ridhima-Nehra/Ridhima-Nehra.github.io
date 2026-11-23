@@ -28,8 +28,8 @@ Built and compared multiple approaches for multi-label emotion classification (2
 - Ridhima Nehra and I. SenGupta (2026), "The catastrophe bond price under the jump diffusion model: a multi-currency comparison", (2026), _Stats_, **9**(5), 112. [Read the article here](https://doi.org/10.3390/stats9050112)
 - (Submitted) Ridhima Nehra and I. SenGupta (2026), “The valuation of catastrophe bonds under domestic and foreign interest rates with jumps”, 2026. doi: 
 - (Working Paper) Ridhima Nehra and L. Liu (2026), "Emotion Detection in Text Using Large Language Models for Enhanced Mental Health Support". 
-- Ridhima Nehra, Sushma Dave, Pratik Jagtap. “Mathematical Modeling and Surface Response Curves for Green Synthesized Nanomaterials and Their Application in Dye Degradation.” Book Chapter in Photocatalytic Degradation of Dyes, Elsevier, 2021. 
-- Ridhima Nehra, Rojin Joseph, and Aparna Vyas. “Comparison of Image Denoising Using Wavelet Transform and Wavelet Packet Transform.” International Conference Proceedings, Tokyo Summit II, 2020. [Read the article here](https://doi.org/10.1016/B978-0-12-823876-9.00027-5)
+- Sushma Dave, Pratik Jagtap, Sanjana Verma, \textbf{R. Nehra}, et al. (2021), “Mathematical Modeling and Surface Response Curves for Green Synthesized Nanomaterials and Their Application in Dye Degradation.” Book Chapter in Photocatalytic Degradation of Dyes, Elsevier, 2021. [Read the article here](https://doi.org/10.1016/B978-0-12-823876-9.00027-5)
+- Ridhima Nehra, Rojin Joseph, and Aparna Vyas. “Comparison of Image Denoising Using Wavelet Transform and Wavelet Packet Transform.” International Conference Proceedings, Tokyo Summit II, 2020. 
 
 ## Presentations
 - (Upcoming) ``Joint Mathematics Meetings 2027'', Chicago, January 12-15, 2027.  
